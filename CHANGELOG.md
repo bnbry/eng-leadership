@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 series of engineering leadership concepts, guides and template documents and follows a simple date
 based versioning protocol.
 
+## 2025-04-15 - 02
+
+### Added
+
+- service runbook and task runbook templates [14.01, 14.02]
+
+### Changed
+
+- updated README with additional info on structure of the repo
+
 ## 2025-04-15 - 01
 
 ### Added
